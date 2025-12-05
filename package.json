@@ -1,0 +1,24 @@
+{
+  "name": "papermind",
+  "version": "1.0.0",
+  "description": "Transform research papers into learning materials",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/papermind"
+  },
+  "keywords": [
+    "research",
+    "papers",
+    "arxiv",
+    "learning",
+    "flashcards",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
